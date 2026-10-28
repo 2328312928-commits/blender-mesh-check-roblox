@@ -1,0 +1,13 @@
+schema_version = "1.0.0"
+
+id = "mesh_check_rbx"
+version = "1.0.0"
+name = "Mesh Check for Roblox"
+tagline = "Check meshes against Roblox's triangle, UV and size limits"
+maintainer = "Kettlewick Tools"
+type = "add-on"
+website = "https://github.com/2328312928-commits/blender-mesh-check-roblox"
+tags = ["Import-Export", "Mesh", "Game Engine"]
+blender_version_min = "4.2.0"
+license = ["SPDX:GPL-3.0-or-later"]
+
