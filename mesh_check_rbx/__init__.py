@@ -8,7 +8,7 @@ buttons and a Roblox-ready FBX export; the free edition only checks.
 bl_info = {
     "name": "Mesh Check for Roblox",
     "author": "Kettlewick Tools",
-    "version": (1, 0, 0),
+    "version": (1, 0, 1),
     "blender": (4, 2, 0),
     "location": "3D Viewport > Sidebar > Roblox",
     "description": "Checks triangle budgets, watertightness, UVs, textures, bone influences, cages and accessory sizes against Roblox's limits",

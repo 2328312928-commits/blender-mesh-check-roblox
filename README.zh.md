@@ -23,7 +23,7 @@
 
 ## 安装
 
-1. 从 [Releases](../../releases) 下载 `mesh_check_rbx-1.0.0.zip`。
+1. 从 [Releases](../../releases) 下载 `mesh_check_rbx-1.0.1.zip`。
 2. 在 Blender 中：**编辑 → 偏好设置 → 获取扩展**，点 ⌄ 菜单 → **从磁盘安装...**，选择这个 zip。
 3. 打开 3D 视图侧边栏（**N**）→ **Roblox** 标签，选择资产类型，点击 **Check for Roblox**。
 

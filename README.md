@@ -23,7 +23,7 @@ Works in Blender 4.2 and later; tested in Blender 5.2.
 
 ## Install
 
-1. Download `mesh_check_rbx-1.0.0.zip` from [Releases](../../releases).
+1. Download `mesh_check_rbx-1.0.1.zip` from [Releases](../../releases).
 2. In Blender: **Edit → Preferences → Get Extensions**, then the ⌄ menu → **Install from Disk...**, and pick the zip.
 3. Open the 3D Viewport sidebar (**N**) → **Roblox** tab, choose the asset type and click **Check for Roblox**.
 
