@@ -29,7 +29,7 @@
 
 ## Pro 版
 
-**Mesh Check Pro**（即将在 [Gumroad 上的 Kettlewick Tools](https://kettlewick.gumroad.com) 上架）额外提供：
+[**Mesh Check Pro**](https://kettlewick.gumroad.com/l/mesh-check-pro-roblox) 额外提供：
 
 - **一键修复**：应用旋转/缩放（子物体位置不变）、只把 N-gon 三角化、把骨骼影响限制为 4 并重新归一化、删除多余的 UV 贴图、设置 stud 单位、缩小过大的贴图。也可以 **全部修复**。
 - **为 Roblox 导出 FBX**：使用 Roblox 导出指南里的设置（路径模式 Copy、嵌入贴图、FBX 单位缩放、不加末端骨骼、不烘焙动画），自动包含笼体和骨架。

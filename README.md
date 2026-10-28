@@ -29,7 +29,7 @@ Works in Blender 4.2 and later; tested in Blender 5.2.
 
 ## Pro edition
 
-**Mesh Check Pro** (coming soon to [Kettlewick Tools on Gumroad](https://kettlewick.gumroad.com)) adds:
+[**Mesh Check Pro**](https://kettlewick.gumroad.com/l/mesh-check-pro-roblox) adds:
 
 - **One-click fixes**: apply rotation/scale (keeps children in place), triangulate only the n-gons, limit bone influences to 4 and re-normalize, remove extra UV maps, set stud units, scale oversized textures down. Or **Fix all** at once.
 - **Export FBX for Roblox**: the settings from Roblox's export guide (Path Mode Copy, embedded textures, FBX unit scale, no leaf bones, no baked animation). Cages and armatures are included automatically.

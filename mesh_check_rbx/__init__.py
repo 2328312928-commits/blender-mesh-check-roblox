@@ -25,7 +25,7 @@ try:  # Present only in the Pro edition.
 except ImportError:
     pro = None
 
-STORE_URL = "https://kettlewick.gumroad.com"
+STORE_URL = "https://kettlewick.gumroad.com/l/mesh-check-pro-roblox"
 MAX_ROWS = 40
 
 _results = []  # Issues from the last run, shown in the panel.
@@ -160,7 +160,7 @@ class MESHCHECK_PT_panel(bpy.types.Panel):
             pro.draw_panel(layout, context)
         else:
             col = layout.column(align=True)
-            col.label(text="Pro (coming soon): fixes + FBX export")
+            col.label(text="Pro: one-click fixes + Roblox FBX export")
             col.operator("wm.url_open", text="Get Pro", icon="URL").url = STORE_URL
 
 
